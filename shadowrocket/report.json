@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-10-02",
+  "total": 50,
+  "regions": {
+    "HK": 8,
+    "TW": 5,
+    "KR": 5,
+    "SG": 8,
+    "JP": 10,
+    "US": 14
+  },
+  "source": "kooker/FreeSubsCheck kooker.jp.txt",
+  "format": "Shadowrocket Base64 URI subscription",
+  "note": "Initial compatibility-filtered baseline. GitHub Action separately rechecks entry TCP 3 times and prioritizes upstream Mihomo-tested results."
+}
