@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-10-02",
+  "generated_at": "2026-10-02T14:31:51Z",
   "total": 50,
   "regions": {
-    "HK": 8,
-    "TW": 5,
-    "KR": 5,
-    "SG": 8,
-    "JP": 10,
-    "US": 14
+    "HK": 9,
+    "TW": 3,
+    "KR": 6,
+    "SG": 9,
+    "JP": 11,
+    "US": 12
   },
-  "source": "kooker/FreeSubsCheck kooker.jp.txt",
-  "format": "Shadowrocket Base64 URI subscription",
-  "note": "Initial compatibility-filtered baseline. GitHub Action separately rechecks entry TCP 3 times and prioritizes upstream Mihomo-tested results."
+  "criteria": "Shadowrocket-compatible URI; primary tested upstream; TCP 3 attempts and require >=2 successes",
+  "warning": "TCP success is not a complete end-to-end proxy handshake; primary source is prioritized because it performs Mihomo proxy connectivity tests."
 }
