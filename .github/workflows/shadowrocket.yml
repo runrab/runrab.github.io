@@ -23,6 +23,8 @@ jobs:
     timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -35,7 +37,9 @@ jobs:
           git add shadowrocket/px.txt shadowrocket/px-raw.txt shadowrocket/report.json
           if git diff --cached --quiet; then
             echo "No changes"
-          else
-            git commit -m "chore: refresh Shadowrocket subscription"
-            git push
+            exit 0
           fi
+          git commit -m "chore: refresh Shadowrocket subscription"
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
