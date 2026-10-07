@@ -38,13 +38,13 @@ vmess://eyJhZGQiOiIxOTQuOTkuNzkuMjYiLCJhaWQiOjAsImhvc3QiOiJha3NhaS5vcmciLCJpZCI6
 trojan://UX82473651@dynamic-imp.rooster465.autos:443?allowInsecure=1&type=tcp#JP-20%20%E2%9C%933%2F3
 vmess://eyJhZGQiOiJsY3Y4djlsN295YW14eGZ6LnYuM2Rucy52aXAiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOiJsY3Y4djlsN095YW14eGZaLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmFtZSI6IkhLIPCfh63wn4ewIHwgQFJheWRpa2FseCB8IDA4OTcyRCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOjQ0MywicHMiOiJISy0xOSDinJMzLzMiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoibGN2OHY5bDdPeWFteHhmWi52LjNkbnMudmlwIiwidGxzIjoidGxzIiwidHlwZSI6bnVsbCwidiI6bnVsbH0=
 trojan://UX82473651@fancy-javelin.rooster465.autos:443?allowInsecure=1&type=tcp#JP-21%20%E2%9C%933%2F3
+trojan://56815326-1a2e-4d4b-bbcb-ff3f6f2a487d@node1.luoye.ee:443?sni=node1.luoye.ee&type=tcp#HK-20%20%E2%9C%933%2F3
 trojan://UX82473651@54.249.36.167:443?sni=comic-poodle.rooster465.autos&type=tcp#JP-22%20%E2%9C%933%2F3
+trojan://74bf1088-9604-48ef-8997-746bf83fd9cb@node1.luoye.ee:443?sni=node1.luoye.ee&type=tcp#HK-21%20%E2%9C%933%2F3
 trojan://UX82473651@dynamic-imp.rooster465.autos:443?sni=dynamic-imp.rooster465.autos#JP-23%20%E2%9C%933%2F3
+trojan://654d0888-1452-4e1b-8077-ab00b45409fb@node1.luoye.ee:443?sni=node1.luoye.ee&type=tcp#HK-22%20%E2%9C%933%2F3
 trojan://UX82473651@54.249.36.167:443?allowInsecure=1&sni=comic-poodle.rooster465.autos&type=tcp#JP-24%20%E2%9C%933%2F3
 trojan://UX82473651@concrete-aardvark.rooster465.autos:443?type=tcp#JP-25%20%E2%9C%933%2F3
 trojan://UX82473651@43.207.198.39:443?sni=fancy-javelin.rooster465.autos&type=tcp#JP-26%20%E2%9C%933%2F3
 trojan://UX82473651@comic-poodle.rooster465.autos:443?type=tcp#JP-27%20%E2%9C%933%2F3
 trojan://UX82473651@52.192.45.137:443?sni=promoted-rattler.rooster465.autos&type=tcp#JP-28%20%E2%9C%933%2F3
-trojan://UX82473651@organic-caribou.rooster465.autos:443?type=tcp#JP-29%20%E2%9C%933%2F3
-trojan://UX82473651@promoted-rattler.rooster465.autos:443?allowInsecure=1&type=tcp#JP-30%20%E2%9C%933%2F3
-trojan://UX82473651@3.112.245.255:443?sni=dynamic-imp.rooster465.autos&type=tcp#JP-31%20%E2%9C%933%2F3
