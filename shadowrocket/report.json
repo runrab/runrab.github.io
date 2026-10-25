@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-25T04:57:51Z",
+  "generated_at": "2026-10-25T11:44:43Z",
   "total": 50,
   "regions": {
     "HK": 10,
-    "TW": 5,
-    "KR": 2,
+    "TW": 6,
+    "KR": 3,
     "SG": 9,
-    "JP": 11,
+    "JP": 9,
     "US": 13
   },
   "criteria": "Shadowrocket-compatible URI; primary tested upstream; TCP 3 attempts and require >=2 successes",
