@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-26T13:16:16Z",
+  "generated_at": "2026-10-26T22:54:47Z",
   "total": 50,
   "regions": {
-    "HK": 10,
-    "TW": 6,
-    "KR": 2,
-    "SG": 9,
-    "JP": 11,
-    "US": 12
+    "HK": 11,
+    "TW": 3,
+    "KR": 1,
+    "SG": 10,
+    "JP": 12,
+    "US": 13
   },
   "criteria": "Shadowrocket-compatible URI; primary tested upstream; TCP 3 attempts and require >=2 successes",
   "warning": "TCP success is not a complete end-to-end proxy handshake; primary source is prioritized because it performs Mihomo proxy connectivity tests."
